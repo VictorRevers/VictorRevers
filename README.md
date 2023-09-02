@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Interested in Back-End development and application security.</p>
+
 
 ###
 
