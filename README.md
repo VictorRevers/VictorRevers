@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Victor! I'm a Computer Science Student from Rio de Janeiro, Brazil!</h2>
+<h2 align="left">Seja Bem Vindo! Meu nome é Victor!</h2></br>
+<h2>Pós graduando em Computação em Nuvem, Bacharel em Ciência da Computação com 2 anos de experiência profissional em programação de sistemas e 1 ano de experiência em Suporte e Administração de Sistemas, além de experiência acadêmica.</h2>
 
 ###
 
@@ -7,14 +8,10 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
+  <h3>SQL</h3>
 </div>
 
 ###
