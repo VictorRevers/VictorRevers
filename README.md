@@ -1,5 +1,6 @@
 <h2 align="left">Seja Bem Vindo! Meu nome é Victor!</h2></br>
-<h2>Pós graduando em Computação em Nuvem, Bacharel em Ciência da Computação com 2 anos de experiência profissional em programação de sistemas e 1 ano de experiência em Suporte e Administração de Sistemas, além de experiência acadêmica.</h2>
+<h2>Formação: Pós graduando em Computação em Nuvem, Bacharel em Ciência da Computação</h2>
+<h2>Atuo como programador na Reserve Systems</h2>
 
 ###
 
